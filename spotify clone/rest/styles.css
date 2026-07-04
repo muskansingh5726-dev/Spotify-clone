@@ -1,0 +1,11 @@
+body{font-family:Arial,sans-serif;background:#111;color:#fff}
+.glass-nav{background:rgba(0,0,0,.55);backdrop-filter:blur(10px)}
+.hero{height:100vh;background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.7)),url('https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1600') center/cover}
+.food-card{background:#1f1f1f;color:#fff;border:none;border-radius:16px;overflow:hidden;transition:.4s;box-shadow:0 8px 20px rgba(0,0,0,.4)}
+.food-card:hover{transform:translateY(-8px) scale(1.02)}
+.food-card img{height:230px;object-fit:cover}
+.gallery{transition:.4s}
+.gallery:hover{transform:scale(1.05)}
+section{scroll-margin-top:80px}
+footer{background:#000}
+.btn-warning{font-weight:bold}
