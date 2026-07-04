@@ -1,25 +1,23 @@
-🎵 Spotify Clone
+# Spotify Clone
 
-A responsive Spotify UI Clone built using HTML and CSS | learning project.
+A responsive Spotify UI clone built using HTML and CSS. I created this project as part of my web development learning journey by following the Apna College course and practicing front-end development.
 
-## 🚀 Technologies Used
+## Technologies
 - HTML5
 - CSS3
 - Font Awesome
 
-## ✨ Features
-- Responsive Spotify-inspired UI
-- Sidebar Navigation
-- Music Cards
-- Music Player Section
-- Modern Layout
+## Features
+- Responsive Spotify-inspired interface
+- Sidebar navigation
+- Music cards
+- Music player section
 
-## 📚 Learning Outcome
-This project helped me improve my understanding of:
-- HTML Structure
-- CSS Flexbox
-- Responsive Design
-- UI Development
+## What I Learned
+- Building responsive layouts using Flexbox
+- Creating modern UI designs with HTML and CSS
+- Organizing project files
+- Improving front-end development skills
 
-## 📝 Note
-This is a learning project created by following the Apna College Web Development course. Some customizations and improvements were made while practicing.
+## Acknowledgement
+This project was built as a learning project by following the Apna College Web Development course.
