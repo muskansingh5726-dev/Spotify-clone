@@ -21,3 +21,9 @@ A responsive Spotify UI clone built using HTML and CSS. I created this project a
 
 ## Acknowledgement
 This project was built as a learning project by following the Apna College Web Development course.
+
+## Future Improvements
+
+- Add a functional music player
+- Add playlist functionality
+- Improve mobile responsiveness
